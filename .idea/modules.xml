@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SmartIrrigationSys.iml" filepath="$PROJECT_DIR$/SmartIrrigationSys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartIrrigationSystem.iml" filepath="$PROJECT_DIR$/SmartIrrigationSystem.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
